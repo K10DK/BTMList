@@ -13,6 +13,11 @@ samsungcloudsolution.net
 ads.samsung.com
 log-config.samsungacr.com
 ntp.samsungcloudsolution.net
+samsungcloudsolution.com
+samsungiotcloud.com
+apps.samsungcloudsolution.com
+gss.samsung.com
+us-mems.samsungcloudsolution.com
 # LG
 lgtvsdp.com
 lgad.c.lgsmartad.com
@@ -25,6 +30,11 @@ vizio.com
 vizioacr.com
 tracking.vizio.com
 smartcast.tv
+smartcast.com
+smartcastcloud.com
+ads.vizio.com
+data.vizio.com
+analytics.vizio.com
 # Roku
 metrics.roku.com
 smetrics.ws.roku.com
@@ -84,6 +94,8 @@ optimize.google.com
 pixel.google.com
 survey.g.doubleclick.net
 survey.google.com
+firebaseio.com
+firebaselogging.googleapis.com
 # Asus / TrendMicro
 trendmicro.com
 trendmicro.eu
@@ -95,12 +107,17 @@ stat-report.asus.com
 # Netgear
 device.netgear.com
 analytics.netgear.com
+# TP Link
 log.tplinkcloud.com
 api.circle.meetlumi.com
-firebaseio.com
-firebaselogging.googleapis.com
-mixpanel.com
+msg.tplinkcloud.com
+euapi.tplinkcloud.com
+usapi.tplinkcloud.com
+api.tclcloud.com
+iotcloud.tcl.com
+update.tclcloud.com
 # OpenAI
+mixpanel.com
 segment.io
 amplitude.com
 sentry.io
@@ -169,3 +186,8 @@ r20.rs6.net
 gr8.com
 trk.klaviyo.com
 sfmc-content.com
+# TCL 
+tclcloud.com
+tclremote.com
+# Google Nest telemetry
+nestlabs.com
