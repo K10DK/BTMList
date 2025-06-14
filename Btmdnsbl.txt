@@ -76,7 +76,7 @@ settings.crashlytics.com
 app-measurement.com
 app-measurement.net
 crashlytics.com
-ssl.gstatic.com/ads
+ssl.gstatic.com
 admob.com
 analytics.google.com
 ogs.google.com
@@ -168,4 +168,4 @@ createsend.com
 r20.rs6.net
 gr8.com
 trk.klaviyo.com
-email.*.sfmc-content.com
+sfmc-content.com
