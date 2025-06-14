@@ -1,13 +1,13 @@
-### Title: BTM (Block that Manufacturer)
-### Description: Blocks known manufacturers known for their shady data collection.
-### Homepage: https://github.com/K10DK/PiHole-List
-### License: https://github.com/K10DK/PiHole-List/blob/main/LICENSE
-### Issues: https://github.com/hagezi/dns-blocklists/issues
-### Expires: 1 day
-### Last modified: 12 Jun 2025 14:23 GMT
-### Version: 2025.12061423
-### Syntax: AdBlock
-### Number of entries: 41
+# Title: BTM (Block that Manufacturer)
+# Description: Blocks known manufacturers known for their shady data collection.
+# Homepage: https://github.com/K10DK/PiHole-List
+# License: https://github.com/K10DK/PiHole-List/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 1 day
+# Last modified: 12 Jun 2025 14:23 GMT
+# Version: 2025.12061423
+# Syntax: AdBlock
+# Number of entries: 41
 samsungacr.com
 samsungrm.net
 samsungcloudsolution.net
@@ -49,3 +49,4 @@ firebaselogging.googleapis.com
 mixpanel.com
 segment.io
 bugsnag.com
+dns.msftncsi.com
