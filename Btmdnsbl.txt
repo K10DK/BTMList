@@ -94,6 +94,7 @@ optimize.google.com
 pixel.google.com
 survey.g.doubleclick.net
 survey.google.com
+play.google.com
 firebaseio.com
 firebaselogging.googleapis.com
 # Asus / TrendMicro
