@@ -191,3 +191,5 @@ tclcloud.com
 tclremote.com
 # Google Nest telemetry
 nestlabs.com
+# Mozilla
+img-getpocket.cdn.mozilla.net
