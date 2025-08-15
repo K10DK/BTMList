@@ -194,3 +194,8 @@ tclremote.com
 nestlabs.com
 # Mozilla
 img-getpocket.cdn.mozilla.net
+# Reddit
+events.redditmedia.com
+www.redditmedia.com
+alb.reddit.com
+ads.reddit.com
