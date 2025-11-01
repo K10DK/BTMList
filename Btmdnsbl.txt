@@ -166,7 +166,6 @@ external-preview.redd.it
 joy.teddybearmetal.com
 pixel.reddit.com
 reddit.map.fastly.net
-www.redditmedia.com
 v.redd.it
 # Roku
 advertising.roku.com
