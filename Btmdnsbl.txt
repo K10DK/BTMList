@@ -47,7 +47,6 @@ google-analytics.com
 ssl.google-analytics.com
 www.google-analytics.com
 googletagmanager.com
-www.googletagmanager.com
 googletagservices.com
 googleadservices.com
 pagead2.googlesyndication.com
@@ -97,6 +96,16 @@ survey.google.com
 play.google.com
 firebaseio.com
 firebaselogging.googleapis.com
+apis.google.com
+# AppNexus
+adnxs.com
+adnxs1.com
+ib.adnxs.com
+ib.adnxs1.com
+secure.adnxs.com
+cdn.adnxs.com
+ib.adnxs-simple.com
+acdn.adnxs.com
 # Asus / TrendMicro
 trendmicro.com
 trendmicro.eu
