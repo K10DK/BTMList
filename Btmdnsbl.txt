@@ -161,12 +161,6 @@ sentry.io
 # Reddit
 ads.reddit.com
 alb.reddit.com
-events.redditmedia.com
-external-preview.redd.it
-joy.teddybearmetal.com
-pixel.reddit.com
-reddit.map.fastly.net
-v.redd.it
 # Roku
 advertising.roku.com
 analytics.tubemogul.com
