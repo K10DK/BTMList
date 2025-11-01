@@ -196,11 +196,11 @@ iotcloud.tcl.com
 log.tplinkcloud.com
 tclcloud.com
 tclremote.com
+update.tclcloud.com
+# TP Link 
 msg.tplinkcloud.com
 euapi.tplinkcloud.com
 usapi.tplinkcloud.com
-api.circle.meetlumi.com
-update.tclcloud.com
 # Vizio
 ads.vizio.com
 analytics.vizio.com
