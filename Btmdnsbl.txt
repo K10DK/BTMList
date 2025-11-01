@@ -40,8 +40,6 @@ track.klaviyo.com
 trk.klaviyo.com
 gr8.com
 # Google
-accounts.google.com/gsi/iframe
-accounts.google.com.gsi.iframe.select.client_id.*
 ad.doubleclick.net
 admob.com
 adservice.google.co.uk
@@ -97,7 +95,6 @@ tpc.googlesyndication.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagservices.com
-yt3.ggpht.com/proxy/
 signaler-pa.youtube.com
 crashlytics.com
 # Microsoft
