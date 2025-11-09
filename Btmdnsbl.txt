@@ -258,7 +258,6 @@ pinotage-agent-comms.centrastage.net
 features.pinotage.rmm.datto.com
 update.centrastage.net
 storage.rmm.datto.com
-download.visualstudio.microsoft.com
 agent-gateway.rmm.datto.com
 webrtc.rmm.datto.com
 tunnel.rmm.datto.com
