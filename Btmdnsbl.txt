@@ -239,3 +239,35 @@ distribution.qg2.apps.qualys.eu
 nac-le-service.qg1.apps.qualys.in
 # Meta
 graph.facebook.com
+# Datto
+centrastage.net
+concord-ips.centrastage.net
+vidal-ips.centrastage.net
+zinfandel-ips.centrastage.net
+merlot-ips.centrastage.net
+pinotage-ips.centrastage.net
+syrah-ips.centrastage.net
+tunnel-ips.centrastage.net
+01ws.centrastage.net
+agent-gateway.pinotage.rmm.datto.com
+pinotage-agent.centrastage.net
+pinotage-audit.centrastage.net
+pinotage-monitoring.centrastage.net
+pinotage-agent-notifications.centrastage.net
+pinotage-agent-comms.centrastage.net
+features.pinotage.rmm.datto.com
+update.centrastage.net
+storage.rmm.datto.com
+download.visualstudio.microsoft.com
+agent-gateway.rmm.datto.com
+webrtc.rmm.datto.com
+tunnel.rmm.datto.com
+us.workplace.datto.com
+client.workplace.datto.com
+eu.workplace.datto.com
+client‑eu.workplace.datto.com
+ca.workplace.datto.com
+hunt-saas-files.s3.us-east-1.amazonaws.com
+hunt-saas-surveys.s3.us-east-1.amazonaws.com
+infocyte-downloads.s3.us-east-1.amazonaws.com
+*.es.datto.net
