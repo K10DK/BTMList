@@ -161,6 +161,10 @@ sentry.io
 # Reddit
 ads.reddit.com
 alb.reddit.com
+||reddit.com^$app=reddit
+||reddit.com##.promotedlink
+||reddit.com##.ad-container
+||reddit.com##div[id^="ad"]
 # Roku
 advertising.roku.com
 analytics.tubemogul.com
