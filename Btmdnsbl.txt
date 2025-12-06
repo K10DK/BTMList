@@ -3,7 +3,7 @@
 # Homepage: https://github.com/K10DK/PiHole-List
 # License: https://github.com/K10DK/PiHole-List/blob/main/LICENSE
 # Issues: https://github.com/K10DK/BTMList/issues
-# Last modified: 12 Jun 2025 15:55 GMT
+# Last modified: 8th Dec 2025 20:35 GMT
 # Version: 2025.12061555
 #
 # Asus / TrendMicro
