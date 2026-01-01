@@ -301,3 +301,9 @@ hunt-saas-files.s3.us-east-1.amazonaws.com
 hunt-saas-surveys.s3.us-east-1.amazonaws.com
 infocyte-downloads.s3.us-east-1.amazonaws.com
 *.es.datto.net
+#Others
+cdn.privacy-mgmt.com
+sourcepointcmp.com
+cdn.sourcepoint.com
+cdn.cookielaw.org
+cmp.quantcast.com
