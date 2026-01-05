@@ -242,32 +242,32 @@ camsrepo.qg1.apps.qualys.com
 distribution.qg2.apps.qualys.eu
 nac-le-service.qg1.apps.qualys.in
 # 8Y8
-8x8.com
-*.8x8.com
-8x8.vc
-*.8x8.vc
-vcc-na7.8x8.com
-vcc-na8.8x8.com
-vcc-na9.8x8.com
-vcc-eu1.8x8.com
-vcc-eu2.8x8.com
-*.vcc-na*.8x8.com
-*.vcc-eu*.8x8.com
-8x8.me
-jitsi.8x8.vc
-sso.8x8.com
-webapp.8x8.com
+# 8x8.com
+# *.8x8.com
+# 8x8.vc
+# *.8x8.vc
+# vcc-na7.8x8.com
+# vcc-na8.8x8.com
+# vcc-na9.8x8.com
+# vcc-eu1.8x8.com
+# vcc-eu2.8x8.com
+# *.vcc-na*.8x8.com
+# *.vcc-eu*.8x8.com
+# 8x8.me
+# jitsi.8x8.vc
+# sso.8x8.com
+# webapp.8x8.com
 *.virtualoffice.8x8.com
-8x8.com
-8x8.vc
-vcc-na7.8x8.com
-vcc-na8.8x8.com
-vcc-na9.8x8.com
-vcc-eu1.8x8.com
-vcc-eu2.8x8.com
-jitsi.8x8.vc
-sso.8x8.com
-webapp.8x8.com
+# 8x8.com
+# 8x8.vc
+# vcc-na7.8x8.com
+# vcc-na8.8x8.com
+# vcc-na9.8x8.com
+# vcc-eu1.8x8.com
+# vcc-eu2.8x8.com
+# jitsi.8x8.vc
+# sso.8x8.com
+# webapp.8x8.com
 # Meta
 graph.facebook.com
 # Datto
